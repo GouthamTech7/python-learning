@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+college = input("Enter your college name: ")
+branch = input("Enter your branch: ")
+interests = input("Enter your interests: ")
+
+print("\n--- My B.Tech Journey ---")
+print("Name:", name)
+print("College:", college)
+print("Branch:", branch)
+print("Interests:", interests)
+print("\nWelcome to my B.Tech journey! 🚀")
